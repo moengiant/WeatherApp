@@ -1,4 +1,4 @@
-![alt text](https://github.com/moengiant/WeatherApp/blob/master/logos/iarpa.png?raw=true)
+![alt text](https://github.com/moengiant/WeatherApp/blob/master/logos/weatherApp.png?raw=true)
 
 # WeatherApp
  This is a proof of concept using tkinter to create a GUI for a python script
